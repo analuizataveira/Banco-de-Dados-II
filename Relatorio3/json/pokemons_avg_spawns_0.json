@@ -1,0 +1,153 @@
+[
+    {
+        "_id": {
+            "$oid": "630577ca113f7b3023687063"
+        },
+        "id": 132,
+        "num": "132",
+        "name": "Ditto",
+        "img": "http://www.serebii.net/pokemongo/pokemon/132.png",
+        "type": [
+            "Normal"
+        ],
+        "height": "0.30 m",
+        "weight": "4.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630577ca113f7b302368706f"
+        },
+        "id": 144,
+        "num": "144",
+        "name": "Articuno",
+        "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "height": "1.70 m",
+        "weight": "55.4 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630577ca113f7b3023687070"
+        },
+        "id": 145,
+        "num": "145",
+        "name": "Zapdos",
+        "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "height": "1.60 m",
+        "weight": "52.6 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Ice",
+            "Rock"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630577ca113f7b3023687071"
+        },
+        "id": 146,
+        "num": "146",
+        "name": "Moltres",
+        "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "height": "2.01 m",
+        "weight": "60.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Electric",
+            "Rock"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630577ca113f7b3023687075"
+        },
+        "id": 150,
+        "num": "150",
+        "name": "Mewtwo",
+        "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
+        "type": [
+            "Psychic"
+        ],
+        "height": "2.01 m",
+        "weight": "122.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630577ca113f7b3023687076"
+        },
+        "id": 151,
+        "num": "151",
+        "name": "Mew",
+        "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
+        "type": [
+            "Psychic"
+        ],
+        "height": "0.41 m",
+        "weight": "4.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    }
+]
