@@ -26,5 +26,3 @@ fraquezas = ["Psychic", "Ice"]
 pokemons = db.collection.find({"weaknesses": {"$all": fraquezas}})
 
 
-
-print(pokemons)
